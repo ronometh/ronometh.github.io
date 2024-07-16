@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ronometh.github.io/sitemap
+Sitemap: https://ronometh.github.io/app/sitemap
+Sitemap: https://ronometh.github.io/assets/sitemap
+Sitemap: https://ronometh.github.io/css/sitemap
+Sitemap: https://ronometh.github.io/includes/sitemap
+Sitemap: https://ronometh.github.io/item/sitemap
+Sitemap: https://ronometh.github.io/src/sitemap
